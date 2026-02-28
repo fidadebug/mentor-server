@@ -16,13 +16,13 @@
 https://github.com/fidadebug/mentor-server
 
 ### Project Description
-A server 
+A minimalist React-based platform designed to bridge the gap between students and mentors. This tool streamlines the doubt-clearing process with a real-time status tracking system.
 
 ### The Problem statement
-[What problem are you solving?]
+In traditional mentorship environments, students often face uncertainty and a lack of transparency when seeking help for their doubts.
 
 ### The Solution
-[How are you solving it?]
+Mentor-Server addresses these issues by implementing a Visual Signaling System (Traffic Lights). By providing a clear, real-time status—Red (Waiting), Yellow (Interacting), and Green (Resolved)—the platform ensures that both the student and mentor are always aligned on the current state of the doubt-clearing process, fostering a more transparent and efficient learning environment.
 
 ---
 
@@ -31,17 +31,10 @@ A server
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
+- Languages used: React,React Native,Java Script.
+- Frameworks used: 
 - Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
-
-**For Hardware:**
-- Main components: [List main components]
-- Specifications: [Technical specifications]
-- Tools required: [List tools needed]
-
----
+- Tools used: VS Code, Git.
 
 ## Features
 
