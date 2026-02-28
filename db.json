@@ -1,0 +1,16 @@
+
+ {
+  "users": [
+    { "id": "1", "username": "Mentor", "role": "mentor", "password": "123" },
+    { "id": "2", "username": "Team1", "role": "student", "password": "123" }
+  ],
+  "tickets": [
+    {
+      "id": "active-ticket",
+      "status": "grey",
+      "tableNo": "",
+      "teamName": "",
+      "description": ""
+    }
+  ]
+}
